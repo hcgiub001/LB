@@ -1,0 +1,48 @@
+{
+  "shards": [
+    {
+      "shard_id": 0,
+      "file": "shards\\shard-000.bin",
+      "start_rank": 0,
+      "end_rank": 6594,
+      "entries": 6595,
+      "first_packed_source_key": 10,
+      "last_packed_source_key": 2991446,
+      "file_size_bytes": 1094229,
+      "estimated_expand_ram_bytes": 2188458
+    },
+    {
+      "shard_id": 1,
+      "file": "shards\\shard-001.bin",
+      "start_rank": 6595,
+      "end_rank": 13189,
+      "entries": 6595,
+      "first_packed_source_key": 12,
+      "last_packed_source_key": 3035544,
+      "file_size_bytes": 1121841,
+      "estimated_expand_ram_bytes": 2243682
+    },
+    {
+      "shard_id": 2,
+      "file": "shards\\shard-002.bin",
+      "start_rank": 13190,
+      "end_rank": 19784,
+      "entries": 6595,
+      "first_packed_source_key": 34,
+      "last_packed_source_key": 2972714,
+      "file_size_bytes": 1141317,
+      "estimated_expand_ram_bytes": 2282634
+    },
+    {
+      "shard_id": 3,
+      "file": "shards\\shard-003.bin",
+      "start_rank": 19785,
+      "end_rank": 26377,
+      "entries": 6593,
+      "first_packed_source_key": 1,
+      "last_packed_source_key": 3034424,
+      "file_size_bytes": 1158819,
+      "estimated_expand_ram_bytes": 2317638
+    }
+  ]
+}
