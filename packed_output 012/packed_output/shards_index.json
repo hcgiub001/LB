@@ -1,0 +1,117 @@
+{
+  "shards": [
+    {
+      "filename": "shard-000.bin",
+      "rows": 3322,
+      "entries": 247159,
+      "size": 524244,
+      "crc32": 576625879,
+      "min_key": 1,
+      "max_key": 20018,
+      "gz": {
+        "path": "shard-000.bin.gz",
+        "size": 459799
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-001.bin",
+      "rows": 3331,
+      "entries": 247153,
+      "size": 524313,
+      "crc32": 905055669,
+      "min_key": 20020,
+      "max_key": 34672,
+      "gz": {
+        "path": "shard-001.bin.gz",
+        "size": 462469
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-002.bin",
+      "rows": 3270,
+      "entries": 247374,
+      "size": 524206,
+      "crc32": 679312499,
+      "min_key": 34678,
+      "max_key": 59892,
+      "gz": {
+        "path": "shard-002.bin.gz",
+        "size": 468584
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-003.bin",
+      "rows": 3267,
+      "entries": 247418,
+      "size": 524267,
+      "crc32": 3512961503,
+      "min_key": 59904,
+      "max_key": 90306,
+      "gz": {
+        "path": "shard-003.bin.gz",
+        "size": 469555
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-004.bin",
+      "rows": 3300,
+      "entries": 247221,
+      "size": 524170,
+      "crc32": 3868008295,
+      "min_key": 90312,
+      "max_key": 175748,
+      "gz": {
+        "path": "shard-004.bin.gz",
+        "size": 469143
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-005.bin",
+      "rows": 3390,
+      "entries": 246826,
+      "size": 524190,
+      "crc32": 2820218689,
+      "min_key": 175768,
+      "max_key": 579454,
+      "gz": {
+        "path": "shard-005.bin.gz",
+        "size": 468774
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-006.bin",
+      "rows": 3344,
+      "entries": 247067,
+      "size": 524258,
+      "crc32": 4169550845,
+      "min_key": 579456,
+      "max_key": 1161260,
+      "gz": {
+        "path": "shard-006.bin.gz",
+        "size": 465498
+      },
+      "br": null
+    },
+    {
+      "filename": "shard-007.bin",
+      "rows": 3154,
+      "entries": 231532,
+      "size": 491478,
+      "crc32": 1086443670,
+      "min_key": 1161264,
+      "max_key": 3035544,
+      "gz": {
+        "path": "shard-007.bin.gz",
+        "size": 438713
+      },
+      "br": null
+    }
+  ],
+  "remap_file": "remap.bin"
+}
