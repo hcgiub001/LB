@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "total_rows": 26378,
+  "total_entries": 1961750,
+  "num_shards": 6,
+  "omit_offsets": false,
+  "flags_bit0_meaning": "1=offsets omitted",
+  "shards": [
+    {
+      "rows": 4397,
+      "entries": 327362,
+      "unique": 18840,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 1,
+      "last_packed_source_key": 23094,
+      "file_size_bytes": 769685,
+      "crc32": "0x1e7afb2f",
+      "filename": "dataset_s0000_of_0006.bin",
+      "shard_index": 0
+    },
+    {
+      "rows": 4397,
+      "entries": 327638,
+      "unique": 21106,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 23096,
+      "last_packed_source_key": 52248,
+      "file_size_bytes": 779301,
+      "crc32": "0xe46e5f76",
+      "filename": "dataset_s0001_of_0006.bin",
+      "shard_index": 1
+    },
+    {
+      "rows": 4396,
+      "entries": 334104,
+      "unique": 21656,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 52252,
+      "last_packed_source_key": 90306,
+      "file_size_bytes": 794424,
+      "crc32": "0x02351890",
+      "filename": "dataset_s0002_of_0006.bin",
+      "shard_index": 2
+    },
+    {
+      "rows": 4396,
+      "entries": 327253,
+      "unique": 22498,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 90312,
+      "last_packed_source_key": 243196,
+      "file_size_bytes": 784090,
+      "crc32": "0x691413ab",
+      "filename": "dataset_s0003_of_0006.bin",
+      "shard_index": 3
+    },
+    {
+      "rows": 4396,
+      "entries": 322510,
+      "unique": 20811,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 243208,
+      "last_packed_source_key": 920930,
+      "file_size_bytes": 767856,
+      "crc32": "0x4b098c0b",
+      "filename": "dataset_s0004_of_0006.bin",
+      "shard_index": 4
+    },
+    {
+      "rows": 4396,
+      "entries": 322883,
+      "unique": 19069,
+      "remap_width": 2,
+      "lengths_type": "uint8",
+      "first_packed_source_key": 921110,
+      "last_packed_source_key": 3035544,
+      "file_size_bytes": 761634,
+      "crc32": "0x3a41f7db",
+      "filename": "dataset_s0005_of_0006.bin",
+      "shard_index": 5
+    }
+  ]
+}
