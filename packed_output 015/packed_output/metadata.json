@@ -1,0 +1,13 @@
+{
+  "bin": "C:\\Users\\Sufff\\Documents\\packed_output\\packed_output 015\\packed_output\\dataset.bin",
+  "bin_size_bytes": 3989665,
+  "rows": 26378,
+  "total_similar_entries": 1961750,
+  "unique_similar_ids": 26455,
+  "remap_table_entry_bytes": 3,
+  "values_blob_encoding": "varint-LEB128",
+  "lengths_type": "uint8",
+  "flags": 2,
+  "offsets_omitted": false,
+  "tail_compression": "zlib"
+}
